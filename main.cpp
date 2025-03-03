@@ -6,7 +6,7 @@
 int main(int argc, char **argv) {
     std::string first, last;
 
-    askname(first, last);
+    askname(first, last);//мы изменили код >:)
 
     std::cout << "Hello, " << first << " " << last << "!" << std::endl;
 
